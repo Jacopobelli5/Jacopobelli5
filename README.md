@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jacopo Belli</h1>
-<h3 align="center">full-stack developer from Italy, based in Lodon</h3>
+<h3 align="center">full-stack developer based in Lodon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacopobelli5&label=Profile%20views&color=0e75b6&style=flat" alt="jacopobelli5" /> </p>
 
-- 🌱 I’m currently learning **React.js, Node.js, Redux**
-
 - 👨‍💻 All of my projects are available at [http://jacopobelli.dev](http://jacopobelli.dev)
 
-- 📫 How to reach me **jacopobelli510@gmai.com**
+- 📫 How to reach me **jacopobelli510@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13BinngwXXNRsHJehPL7JQUN7qAVWml7f/view?usp=sharing](https://drive.google.com/file/d/13BinngwXXNRsHJehPL7JQUN7qAVWml7f/view?usp=sharing)
 
